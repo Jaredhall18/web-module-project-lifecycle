@@ -6,7 +6,7 @@ class App extends React.Component {
   render() {
     return(<div>
      <h1>GitHub User Info</h1>
-        <MainUser />
+        <User />
         <Follower />
     </div>);
   }
